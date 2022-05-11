@@ -16,14 +16,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pooja97/assignment7.git"
+    "url": "git+https://github.com/swanandsb/Spring_648_A7.git"
   },
   "author": "Swanand",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/pooja97/assignment7/issues"
+    "url": "https://github.com/swanandsb/Spring_648_A7"
   },
-  "homepage": "https://github.com/pooja97/assignment7#readme",
+  "homepage": "https://github.com/swanandsb/Spring_648_A7",
   "dependencies": {
     "babel-polyfill": "^6.26.0",
     "bootstrap": "^3.4.1",
